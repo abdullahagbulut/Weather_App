@@ -24,7 +24,6 @@
 			<li>Improve the design and user interface of the app.</li>
 			<li>Allow users to save their favorite locations and view their weather information quickly.</li>
 		</ul>
-	<h2>License</h2>
-	<p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
+	
 
  <img src="screen.gif" alt="">
